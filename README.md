@@ -51,12 +51,12 @@ Print Speed: Fast
 
 #### Step 6: Attach HDMI, leap motion and power cables
 
-## Finished Product: 
+### Finished Product: 
 
 <img src="imgs/completed.JPG"  alt="NorthStar Parts" style="width:500px;height:350px;"><br>
 <img src="imgs/completed_overhead.JPG" alt="NorthStar Parts" style="width:500px;height:350px;">
 
-# Stage 3: Calibration
+## Stage 3: Calibration
 
 #### Step 1: Download and open the calibration unity package from the calibration folder
 #### Step 2: Go to /leapmotion/northstar/ and open the scene
@@ -71,7 +71,7 @@ Print Speed: Fast
 
 Credits: [tasuku](https://www.youtube.com/watch?v=kLaPxL-DBeo), [eswar](https://medium.com/@A.eswar/project-north-star-calibration-pixel-hacking-trial-and-error-ea3f46ea5d7f)
 
-# Stage 4: TBD
+## Stage 4: TBD
 
 
 ## **The project is under constant imporvement with plans to add more functonality and test cases**
